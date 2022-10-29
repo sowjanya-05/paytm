@@ -1,0 +1,383 @@
+*{
+	margin: 0%;
+}
+.navigation{
+	padding: 2%;
+}
+.navigation a{
+	color: black;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 1%;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Poppins', sans-serif;
+}
+.navigation img{
+	vertical-align: middle;
+}
+
+.logo{
+	margin: 0% 7% 0% 3%;
+}
+#signin{
+	margin-left: 16%;
+	background-color: #00baf2;
+	border-radius: 25Px;
+	text-align: center;
+	color: white;
+	padding: 0.5%;
+}
+#signin:hover{
+	background-color: darkblue;
+}
+.kyc{
+	text-align: center;
+	background-color: rgba(239, 239, 239, 0.8);
+	padding:0.7% 1% 0.7% 1%;
+}
+.kyc a{
+	text-decoration: none;
+	color: black;
+}
+.sec2{
+	font-family: "Poppins";
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 5% 10%;
+}
+.India{
+	font-size: 55Px;
+	margin-top: 5%;
+	/*margin-top: 48px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;*/
+}
+.recharge{
+	font-size: 20px;
+}
+.size{
+	width: 45%;
+}
+.download-app{
+	margin: 1px solid black;
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	width: 65%;
+	text-align: center;
+	margin-top: 8%;
+	padding: 1.8%;
+	
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+.icon i{
+	margin-left: 4%;
+}
+.sec3{
+	color: white;
+	padding: 2% 3%;
+	background-color: #00bfff;
+}
+.sec3 a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 1%;
+
+}
+.sec3 a:hover{
+	background-color: #00adf2;
+	border-radius: 20px;
+}
+.sec3div1{
+	display: flex;
+	justify-content: space-between;
+	margin: 1% 4% 2% 6%;
+}
+.sec3h1{
+	font-size: 40px;
+	margin: 2% 0% 4% 7%;
+}
+.sec3 img{
+	margin-bottom: 5%;
+}
+.sec4{
+	color: white;
+	padding: 2%;
+	background-color: #043e7d;
+}
+.sec4 a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 1%;
+}
+.sec4 a:hover{
+	background-color: #00baf2;
+	border-radius: 20px;
+}
+.sec4 img{
+	margin-bottom: 5%;
+}
+.wallet{
+	display: flex;
+	margin-bottom: 5%;
+}
+.sec5{
+	background-color: rgba(239, 238, 239, 0.8);
+	padding: 7% 11%;
+	font-family: "poppins";
+}
+.sec5div1{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 4%;
+	margin-top: 5%;
+	border-radius: 20px;
+}
+.sec5h1{
+	font-size: 50px;
+}
+.fastest{
+	font-size: 40px;
+	margin-bottom: 5%;
+	margin-top: 8%;
+}
+.load{
+	font-size: 15px;
+	margin-bottom: 5%;
+	margin-top: 2%;
+}
+.learnmore{
+	margin: 1px solid none;
+	background-color: #043e7d;
+	color: white;
+	border-radius: 25px;
+	width: 30%;
+	text-align: center;
+	margin-top: 8%;
+	padding: 2%;
+	font-size: 15px;
+}
+.learnmore:hover{
+	background-color: #00bfff;
+	color: white;
+}
+.sec5div2{
+	display: flex;
+	/*justify-content: space-between;*/
+	padding: 2%;
+}
+.div5{
+	background-color: white;
+	margin: 5% 3% ;
+	padding: 5% 5% 0% 5%;
+	border-radius: 20px;
+	/*justify-content: space-between;*/
+}
+.sbicard{
+	margin-top: 10%;
+}
+.sec5div2 a{
+	text-decoration: none;
+	color: black;
+}
+.sec6{
+	padding: 1%;
+	margin: 3% 5%;
+}
+.sec6div1{
+	display: flex;
+	justify-content: space-evenly;
+}
+.sec6h1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: right;
+}
+.bank{
+	font-size: 40px;
+	margin: 8% 0%;
+}
+.today{
+	font-size: 25px;
+}
+.sec7{
+	background-image: url("images/background.png");
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	display: flex;
+	justify-content: space-between;
+	background-color: rgba(239, 239, 239, 0.6);
+	padding: 5% 5%;
+}
+.sec9{
+	padding: 5% 0%;
+	margin: 3% 0%;
+	background-color: rgba(239, 239, 239, 0.6);
+}
+.sec10{
+	background-color: white;
+	padding: 5% 8%;
+}
+.sec10div1{
+	background-color: rgba(239, 239, 239, 0.6);
+	margin: 5% 3% ;
+	padding: 6% 0% 6% 8%;
+	border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.sec11{
+	margin: 3% 7% 5% 8%;
+	padding: 2%;
+}
+.sec11div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 2%;
+}
+.sec11 a{
+	text-decoration: none;
+	color: black;
+}
+.sec11h2{
+	font-size: 30px;
+	margin: 9% 0% 13% 0%;
+}
+.sec11p{
+	font-size: 22px;
+	margin-top: 5%;
+	margin-bottom: 6%;
+}
+.sec12{
+	display: flex;
+	justify-content: space-between;
+	padding: 2%;
+	margin-top: 8%;
+	margin-left: 2%;
+}
+.sec12 a{
+	text-decoration: none;
+	color: white;
+
+}
+.sec12div1{
+	background-color: skyblue;
+	border-radius: 10px;
+	margin: 1%;
+	color: white;
+	text-align: center;
+	padding-bottom: 1%;
+}
+#sec12a{
+	color: skyblue;
+}
+#sec12a:hover{
+	background-color: white;
+	color: deepblue;
+}
+
+
+
+@media (max-width: 1366px){
+	.navigation a{
+		font-size: 14px;
+	}
+}
+
+
+
+
+
+@media (max-width: 390px){
+	.navigation a{
+		font-size: 4px;
+	}
+	#signin{
+		margin-left: 6%;
+	}
+	#signin img{
+		width: 2%;
+	}
+	.kyc{
+		font-size: 8px;
+	}
+	.India{
+		font-size: 15px;
+	}
+	.recharge{
+		font-size: 5px;
+	}
+	.size{
+		font-size: 5px !important;
+	}
+	.sec2 img{
+		width: 30%;
+	}
+	.sec3h1{
+		font-size: 15px;
+	}
+	.sec3div1 a{
+		font-size: 10px;
+	}
+	.sec5h1{
+		font-size: 18px;
+	}
+	.div5{
+		font-size: 10px;
+	}
+	.fastest{
+		font-size: 12px;
+	}
+	.load{
+		font-size: 6px;
+	}
+	.sec5 img{
+		width: 40%;
+	}
+	.download-app{
+		font-size: 5px;
+	}
+	.learnmore{
+		font-size: 5px;
+	}
+	.sbicard{
+		font-size: 20px;
+	}
+	.bank{
+		font-size: 10px;
+		margin: 1%;
+	}
+	.today{
+		font-size: 6px;
+	}
+	.sec11h2{
+		font-size: 12px;
+	}
+	.sec11p{
+		font-size: 6px;
+	}
+	.sec11 a{
+		font-size: 8px;
+	}
+	.sec9 img{
+		margin-right: 7%;
+		margin-left: 1%;
+		padding-left: 5%;
+	}
+	.sec7 img{
+		margin-right: 7%;
+		margin-left: 1%;
+		padding-left: 5%;
+	}
+	#most-sincere{
+		padding-bottom: 20%;
+	}
+}
